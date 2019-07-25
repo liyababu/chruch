@@ -28,9 +28,7 @@ h1,h2,h3,h4,h5,h6{
 	margin:0;	
 	padding:0;
 }	
-h1{
-	color: #fff;
-}
+
 p{
 	margin:0;
 	padding:0;
@@ -86,7 +84,7 @@ body p {
 	text-align:center;
 }
 .top-agileits {
-    margin-top: -45px;
+    margin-top: -25px;
 	margin-bottom:10px;
 	text-align:justify;
 }
@@ -94,10 +92,10 @@ a.logo {
     display: inline-block;
     text-align: center;
     text-decoration: none;
-	padding-top:5px;
+	padding-top:40px;
 }
 a.logo h1 {
-	font-size:40px;
+	font-size:20px;
 	font-weight:normal;
 	color:#fff;
 	text-transform:uppercase;
@@ -194,7 +192,7 @@ ul.nav.navbar-nav li {
 }
 @media (min-width: 768px) {
 	.navbar-wrapper {
-	margin-top: 125px;
+	margin-top: 80px;
 }
 	.navbar-wrapper .container {
 	padding-right: 15px;
@@ -218,7 +216,7 @@ a.link{
 	font-weight:normal;
 	color:#fff!important;
 	position:relative;
-	padding: 40px 40px;
+	padding: 20px 40px;
 	font-family: 'Cinzel', serif;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
@@ -284,10 +282,11 @@ section.banner-w3ls,#block {
 	background-color: rgba(0, 0, 0, 0.7);
 	padding-left: 6%;
 	padding-right: 6%;
+	padding-top: -10px;
 	display: table;
 }
 .overlay h2 {
-	font-size:45px;
+	font-size:35px;
 	font-weight:normal;
 	color: #fff;
 	text-align:center;
